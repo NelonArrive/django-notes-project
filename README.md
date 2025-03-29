@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Notes Project</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; }
-        h1 { color: #333; }
-        code { background: #f4f4f4; padding: 2px 5px; border-radius: 3px; }
-    </style>
-</head>
-<body>
-    <h1>Notes Project 📝</h1>
+<h1>Notes Project 📝</h1>
     
     <h2>Описание</h2>
     <p>Привет! Это мой первый проект на Python — <strong>Notes Project</strong>. 
@@ -39,26 +26,27 @@
     <ol>
         <li>Клонируй репозиторий:
             <pre><code>git clone https://github.com/yourusername/notes-project.git
+
 cd notes-project</code></pre>
-        </li>
-        <li>Создай и активируй виртуальное окружение:
-            <pre><code>python -m venv venv
-source venv/bin/activate  # для Linux/Mac
-venv\Scripts\activate  # для Windows</code></pre>
-        </li>
-        <li>Установи зависимости:
-            <pre><code>pip install -r requirements.txt</code></pre>
-        </li>
-        <li>Применить миграции:
-            <pre><code>python manage.py migrate</code></pre>
-        </li>
-        <li>Запусти сервер:
-            <pre><code>python manage.py runserver</code></pre>
-        </li>
-        <li>Открой в браузере:
-            <pre><code>http://127.0.0.1:8000/</code></pre>
-        </li>
-    </ol>
+</li>
+<li>Создай и активируй виртуальное окружение:
+<pre><code>python -m venv venv
+source venv/bin/activate # для Linux/Mac
+venv\Scripts\activate # для Windows</code></pre>
+</li>
+<li>Установи зависимости:
+<pre><code>pip install -r requirements.txt</code></pre>
+</li>
+<li>Применить миграции:
+<pre><code>python manage.py migrate</code></pre>
+</li>
+<li>Запусти сервер:
+<pre><code>python manage.py runserver</code></pre>
+</li>
+<li>Открой в браузере:
+<pre><code>http://127.0.0.1:8000/</code></pre>
+</li>
+</ol>
 
     <h2>Планы на улучшение 🚀</h2>
     <ul>
@@ -75,6 +63,3 @@ venv\Scripts\activate  # для Windows</code></pre>
 
     <hr>
     <p>Спасибо, что заглянул! 🚀</p>
-</body>
-</html>
-
