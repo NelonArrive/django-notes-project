@@ -57,4 +57,4 @@ http://127.0.0.1:8000/
 Если у тебя есть идеи или вопросы, пиши мне!
 
 - 📧 Email: nelon.arrive@gmail.com
-- 📱 Telegram: @NelonArrive
+- 📱 Telegram: [@NelonArrive](https://t.me/NelonArrive)
