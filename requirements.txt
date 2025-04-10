@@ -1,8 +1,9 @@
-asgiref
+allauth
 Django
 django-cors-headers
-PyJWT
-pytz
 sqlparse
 psycopg2-binary
 python-dotenv
+PyJWT
+cryptography
+requests
